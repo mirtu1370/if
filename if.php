@@ -3,10 +3,10 @@
 
 date("F",time());
 if("F" == "Agosto"){
-	echo "Está calor"
+	echo "Está calor";
 }
 elseif{
-echo "Não está calor"	
+echo "Não está calor";	
 }
 
 ?>
